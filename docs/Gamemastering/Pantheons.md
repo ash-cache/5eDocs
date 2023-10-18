@@ -1,3 +1,10 @@
+---
+title: Pantheons
+layout: page
+parent: Gamemastering
+nav_order: 6
+---
+
 # Pantheons
 
 The Celtic, Egyptian, Greek, and Norse pantheons are fantasy interpretations of historical religions from our world's ancient times. They include deities that are most appropriate for use in a game, divorced from their historical context in the real world and united into pantheons that serve the needs of the game.
@@ -11,7 +18,7 @@ The Celtic gods are as often served by druids as by clerics, for they are closel
 **Table- Celtic Deities**
 
 | Deity                                             | Alignment | Suggested Domains | Symbol                             |
-|---------------------------------------------------|-----------|-------------------|------------------------------------|
+| ------------------------------------------------- | --------- | ----------------- | ---------------------------------- |
 | The Daghdha, god of weather and crops             | CG        | Nature, Trickery  | Bubbling cauldron or shield        |
 | Arawn, god of life and death                      | NE        | Life, Death       | Black star on gray background      |
 | Belenus, god of sun, light, and warmth            | NG        | Light             | Solar disk and standing stones     |
@@ -35,7 +42,7 @@ The gods of Olympus make themselves known with the gentle lap of waves against t
 **Table- Greek Deities**
 
 | Deity                                      | Alignment | Suggested Domains      | Symbol                                |
-|--------------------------------------------|-----------|------------------------|---------------------------------------|
+| ------------------------------------------ | --------- | ---------------------- | ------------------------------------- |
 | Zeus, god of the sky, ruler of the gods    | N         | Tempest                | Fist full of lightning bolts          |
 | Aphrodite, goddess of love and beauty      | CG        | Light                  | Sea shell                             |
 | Apollo, god of light, music, and healing   | CG        | Knowledge, Life, Light | Lyre                                  |
@@ -66,7 +73,7 @@ The Egyptian pantheon is unusual in having three gods responsible for death, eac
 **Table- Egyptian Deities**
 
 | Deity                                          | Alignment | Suggested Domains        | Symbol                               |
-|------------------------------------------------|-----------|--------------------------|--------------------------------------|
+| ---------------------------------------------- | --------- | ------------------------ | ------------------------------------ |
 | Re-Horakhty, god of the sun, ruler of the gods | LG        | Life, Light              | Solar disk encircled by serpent      |
 | Anubis, god of judgment and death              | LN        | Death                    | Black jackal                         |
 | Apep, god of evil, fire, and serpents          | NE        | Trickery                 | Flaming snake                        |
@@ -92,7 +99,7 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 **Table- Norse Deities**
 
 | Deity                                     | Alignment | Suggested Domains | Symbol                            |
-|-------------------------------------------|-----------|-------------------|-----------------------------------|
+| ----------------------------------------- | --------- | ----------------- | --------------------------------- |
 | Odin, god of knowledge and war            | NG        | Knowledge, War    | Watching blue eye                 |
 | Aegir, god of the sea and storms          | NE        | Tempest           | Rough ocean waves                 |
 | Balder, god of beauty and poetry          | NG        | Life, Light       | Gem-encrusted silver chalice      |

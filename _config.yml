@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 5E Docs
+description: 5E SRD on the web
 theme: just-the-docs
+color_scheme: custom-light
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  View 5E Docs on Github: https://github.com/akcode2/5eDocs

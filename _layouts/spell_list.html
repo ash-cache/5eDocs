@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<html>
+    <head>
+    </head>
+    <body>
+        <div id="spell-div">
+        </div>
+        {{ content | replace: '<li>', '<button class="spell-btn fs-3">' | replace: '</li>', '</button>' }}
+        <script delay src="{{ site.url }}/assets/js/loadSpell.js"></script>
+    </body>
+</html>
+
+
+
+
+

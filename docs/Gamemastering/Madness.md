@@ -1,10 +1,17 @@
+---
+title: Madness
+layout: page
+parent: Gamemastering
+nav_order: 3
+---
+
 # Madness
 
 In a typical campaign, characters aren't driven mad by the horrors they face and the carnage they inflict day after day, but sometimes the stress of being an adventurer can be too much to bear. If your campaign has a strong horror theme, you might want to use madness as a way to reinforce that theme, emphasizing the extraordinarily horrific nature of the threats the adventurers face.
 
 ## Going Mad
 
-Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as *contact other plane* and *symbol*, can cause insanity, and you can use the madness rules here instead of the spell effects of those spells. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as _contact other plane_ and _symbol_, can cause insanity, and you can use the madness rules here instead of the spell effects of those spells. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
 
 Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw.
 
@@ -21,7 +28,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 **Table- Madness Short-Term Effects**
 
 | d100   | Effect (lasts 1d10 minutes)                                                                                                  |
-|--------|------------------------------------------------------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------------------------------------------------------- |
 | 01-20  | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.        |
 | 21-30  | The character becomes incapacitated and spends the duration screaming, laughing, or weeping.                                 |
 | 31-40  | The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear. |
@@ -37,7 +44,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 **Table- Madness Long-Term Effects**
 
 | d100   | Effect (lasts 1d10 × 10 hours)                                                                                                                                                                                                       |
-|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 01-10  | The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins.                                                                                       |
 | 11-20  | The character experiences vivid hallucinations and has disadvantage on ability checks.                                                                                                                                               |
 | 21-30  | The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks.                                                                                                                                |
@@ -55,7 +62,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 **Table- Madness Indefinite Flaws**
 
 | d100   | Flaw (lasts until cured)                                                                                                                 |
-|--------|------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 01-15  | "Being drunk keeps me sane."                                                                                                             |
 | 16-25  | "I keep whatever I find."                                                                                                                |
 | 26-30  | "I try to become more like someone else I know-adopting his or her style of dress, mannerisms, and name."                                |
@@ -72,4 +79,4 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 ### Curing Madness
 
-A *calm emotions* spell can suppress the effects of madness, while a *lesser restoration* spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, *remove curse* or *dispel evil* might also prove effective. A *greater restoration* spell or more powerful magic is required to rid a character of indefinite madness.
+A _calm emotions_ spell can suppress the effects of madness, while a _lesser restoration_ spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, _remove curse_ or _dispel evil_ might also prove effective. A _greater restoration_ spell or more powerful magic is required to rid a character of indefinite madness.

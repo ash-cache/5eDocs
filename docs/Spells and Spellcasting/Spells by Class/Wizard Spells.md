@@ -1,6 +1,6 @@
 ---
 title: Wizard Spells
-layout: page
+layout: spell_list
 parent: Spells by Class
 grand_parent: Spells and Spellcasting
 ---

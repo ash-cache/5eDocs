@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Junge&display=swap');
+
+.spell-btn {
+    @extend .btn;
+    display: block;
+    margin: 1ch 0;
+    background-color: #E07A5F;
+    color: #F2CC8F;
+}
+
+#spell-div {
+    overflow: scroll;
+    position: fixed;
+    right: 4rem;
+    height: 70vh;
+    width: 60ch;
+}
+
+.spellCard {
+    display: flex;
+    flex-direction: column;
+}
+
+.cardHeading {
+    display: flex;
+    flex-direction: column;
+    font-family: "Junge";
+    text-align: center;
+}
+
+.spellLabel {
+    font-weight: bold;
+    font-style:normal;
+}
+.timeRange, .compDuration {
+    display: flex;
+    flex-direction: column;
+    font-style: italic;
+}
+
+
+.levelSchool {
+    font-style:italic;
+    text-align: center;
+}

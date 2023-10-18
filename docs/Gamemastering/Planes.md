@@ -1,3 +1,10 @@
+---
+title: The Planes of Existence
+layout: page
+parent: Gamemastering
+nav_order: 6
+---
+
 # Planes
 
 The cosmos teems with a multitude of worlds as well as myriad alternate dimensions of reality, called the **planes of existence**. It encompasses every world where GMs run their adventures, all within the relatively mundane realm of the Material Plane. Beyond that plane are domains of raw elemental matter and energy, realms of pure thought and ethos, the homes of demons and angels, and the dominions of the gods.
@@ -20,15 +27,15 @@ When adventurers travel into other planes of existence, they are undertaking a l
 
 Travel to the planes beyond the Material Plane can be accomplished in two ways: by casting a spell or by using a planar portal.
 
-***Spells***. A number of spells allow direct or indirect access to other planes of existence. *Plane shift* and *gate* can transport adventurers directly to any other plane of existence, with different degrees of precision. *Etherealness* allows adventurers to enter the Ethereal Plane and travel from there to any of the planes it touches-such as the Elemental Planes. And the *astral projection* spell lets adventurers project themselves into the Astral Plane and travel to the Outer Planes.
+**_Spells_**. A number of spells allow direct or indirect access to other planes of existence. _Plane shift_ and _gate_ can transport adventurers directly to any other plane of existence, with different degrees of precision. _Etherealness_ allows adventurers to enter the Ethereal Plane and travel from there to any of the planes it touches-such as the Elemental Planes. And the _astral projection_ spell lets adventurers project themselves into the Astral Plane and travel to the Outer Planes.
 
-***Portals***. A portal is a general term for a stationary interplanar connection that links a specific location on one plane to a specific location on another. Some portals are like doorways, a clear window, or a fog- shrouded passage, and simply stepping through it effects the interplanar travel. Others are locations- circles of standing stones, soaring towers, sailing ships, or even whole towns-that exist in multiple planes at once or flicker from one plane to another in turn. Some are vortices, typically joining an Elemental Plane with a very similar location on the Material Plane, such as the heart of a volcano (leading to the Plane of Fire) or the depths of the ocean (to the Plane of Water).
+**_Portals_**. A portal is a general term for a stationary interplanar connection that links a specific location on one plane to a specific location on another. Some portals are like doorways, a clear window, or a fog- shrouded passage, and simply stepping through it effects the interplanar travel. Others are locations- circles of standing stones, soaring towers, sailing ships, or even whole towns-that exist in multiple planes at once or flicker from one plane to another in turn. Some are vortices, typically joining an Elemental Plane with a very similar location on the Material Plane, such as the heart of a volcano (leading to the Plane of Fire) or the depths of the ocean (to the Plane of Water).
 
 ### Transitive Planes
 
-The Ethereal Plane and the Astral Plane are called the Transitive Planes. They are mostly featureless realms that serve primarily as ways to travel from one plane to another. Spells such as *etherealness* and *astral projection* allow characters to enter these planes and traverse them to reach the planes beyond.
+The Ethereal Plane and the Astral Plane are called the Transitive Planes. They are mostly featureless realms that serve primarily as ways to travel from one plane to another. Spells such as _etherealness_ and _astral projection_ allow characters to enter these planes and traverse them to reach the planes beyond.
 
-The **Ethereal Plane** is a misty, fog-bound dimension that is sometimes described as a great ocean. Its shores, called the Border Ethereal, overlap the Material Plane and the Inner Planes, so that every location on those planes has a corresponding location on the Ethereal Plane. Certain creatures can see into the Border Ethereal, and the *see invisibility* and *true seeing* spell grant that ability. Some magical effects also extend from the Material Plane into the Border Ethereal, particularly effects that use force energy such as *forcecage* and *wall of force*. The depths of the plane, the Deep Ethereal, are a region of swirling mists and colorful fogs.
+The **Ethereal Plane** is a misty, fog-bound dimension that is sometimes described as a great ocean. Its shores, called the Border Ethereal, overlap the Material Plane and the Inner Planes, so that every location on those planes has a corresponding location on the Ethereal Plane. Certain creatures can see into the Border Ethereal, and the _see invisibility_ and _true seeing_ spell grant that ability. Some magical effects also extend from the Material Plane into the Border Ethereal, particularly effects that use force energy such as _forcecage_ and _wall of force_. The depths of the plane, the Deep Ethereal, are a region of swirling mists and colorful fogs.
 
 The **Astral Plane** is the realm of thought and dream, where visitors travel as disembodied souls to reach the planes of the divine and demonic. It is a great, silvery sea, the same above and below, with swirling wisps of white and gray streaking among motes of light resembling distant stars. Erratic whirlpools of color flicker in midair like spinning coins. Occasional bits of solid matter can be found here, but most of the Astral Plane is an endless, open domain.
 
@@ -56,4 +63,4 @@ The planes with some element of good in their nature are called the **Upper Plan
 
 #### Demiplanes
 
-Demiplanes are small extradimensional spaces with their own unique rules. They are pieces of reality that don't seem to fit anywhere else. Demiplanes come into being by a variety of means. Some are created by spells, such as *demiplane*, or generated at the desire of a powerful deity or other force. They may exist naturally, as a fold of existing reality that has been pinched off from the rest of the multiverse, or as a baby universe growing in power. A given demiplane can be entered through a single point where it touches another plane. Theoretically, a *plane shift* spell can also carry travelers to a demiplane, but the proper frequency required for the tuning fork is extremely hard to acquire. The *gate* spell is more reliable, assuming the caster knows of the demiplane.
+Demiplanes are small extradimensional spaces with their own unique rules. They are pieces of reality that don't seem to fit anywhere else. Demiplanes come into being by a variety of means. Some are created by spells, such as _demiplane_, or generated at the desire of a powerful deity or other force. They may exist naturally, as a fold of existing reality that has been pinched off from the rest of the multiverse, or as a baby universe growing in power. A given demiplane can be entered through a single point where it touches another plane. Theoretically, a _plane shift_ spell can also carry travelers to a demiplane, but the proper frequency required for the tuning fork is extremely hard to acquire. The _gate_ spell is more reliable, assuming the caster knows of the demiplane.
