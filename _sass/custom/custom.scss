@@ -4,8 +4,12 @@
     @extend .btn;
     display: block;
     margin: 1ch 0;
-    background-color: #E07A5F;
-    color: #F2CC8F;
+    background-color: white;
+    font-weight: bold;
+}
+
+.spell-btn:hover {
+    color: #c1121f;
 }
 
 #spell-div {

@@ -1,4 +1,10 @@
-# Monster Statistics
+---
+title: Monsters
+layout: page
+has_children: true
+nav_order: 9
+---
+# Monsters
 
 ## Type
 

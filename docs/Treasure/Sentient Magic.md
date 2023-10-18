@@ -1,3 +1,10 @@
+---
+title: Sentient Magic
+layout: page
+parent: Treasure
+nav_order: 3
+---
+
 # Sentient Magic
 
 Some magic items possess sentience and personality. Such an item might be possessed, haunted by the spirit of a previous owner, or self-aware thanks to the magic used to create it. In any case, the item behaves like a character, complete with personality quirks, ideals, bonds, and sometimes flaws. A sentient item might be a cherished ally to its wielder or a continual thorn in the side.
@@ -21,7 +28,7 @@ A sentient item has some ability to communicate, either by sharing its emotions,
 **Table- Sentient Magic Items: Communication**
 
 | d100   | Communication                                                                                                                                                      |
-|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 01-60  | The item communicates by transmitting emotion to the creature carrying or wielding it.                                                                             |
 | 61-90  | The item can speak, read, and understand one or more languages.                                                                                                    |
 | 91-100 | The item can speak, read, and understand one or more languages. In addition, the item can communicate telepathically with any character that carries or wields it. |
@@ -33,13 +40,13 @@ With sentience comes awareness. A sentient item can perceive its surroundings ou
 
 **Table- Sentient Magic Items: Senses**
 
-| d4 | Senses                                     |
-|----|--------------------------------------------|
-| 1  | Hearing and normal vision out to 30 feet.  |
-| 2  | Hearing and normal vision out to 60 feet   |
-| 3  | Hearing and normal vision out to 120 feet. |
-| 4  | Hearing and darkvision out to 120 feet.    |
-|    |                                            |
+| d4  | Senses                                     |
+| --- | ------------------------------------------ |
+| 1   | Hearing and normal vision out to 30 feet.  |
+| 2   | Hearing and normal vision out to 60 feet   |
+| 3   | Hearing and normal vision out to 120 feet. |
+| 4   | Hearing and darkvision out to 120 feet.    |
+|     |                                            |
 
 #### Alignment
 
@@ -48,7 +55,7 @@ A sentient magic item has an alignment. Its creator or nature might suggest an a
 **Table- Sentient Magic Items: Alignment**
 
 | d100   | Alignment       |
-|--------|-----------------|
+| ------ | --------------- |
 | 01-15  | Lawful good     |
 | 16-35  | Neutral good    |
 | 36-50  | Chaotic good    |
@@ -67,7 +74,7 @@ You can give a sentient item an objective it pursues, perhaps to the exclusion o
 **Table- Sentient Magic Items: Special Purpose**
 
 | d10 | Purpose                                                                                                                                |
-|-----|----------------------------------------------------------------------------------------------------------------------------------------|
+| --- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Aligned: The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.)              |
 | 2   | Bane: The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or wizards.           |
 | 3   | Protector: The item seeks to defend a particular race or kind of creature, such as elves or druids.                                    |

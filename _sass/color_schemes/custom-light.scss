@@ -1,4 +1,5 @@
 @import "./color_schemes/light.scss";
+@import url('https://fonts.googleapis.com/css2?family=Caudex:wght@700&family=Junge&family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 // white
 // grey-dk-300
@@ -9,12 +10,13 @@
 // purple-100
 // grey-dk-000
 
-// $body-background-color: #E0FBFC ;
-$body-heading-color: #81b29a;
+$body-background-color: #FDFCF7 ;
+$body-heading-color: #c1121f;
 // $body-text-color: #fff3ec;
-$link-color: #ee6c4d;
+$link-color: #0d1321;
+
 $nav-child-link-color: #3d405b;
-// $sidebar-color: #98C1D9;
+$sidebar-color: #FAF8EF;
 // $base-button-color: #f7f7f7 ;
 // $btn-primary-color: $purple-100 ;
 // $code-background-color: $grey-lt-000 ;
@@ -22,3 +24,11 @@ $nav-child-link-color: #3d405b;
 $table-background-color: #f4f1de;
 // $search-background-color: #EAE0D5 ;
 // $search-result-preview-color: $grey-dk-000 ;
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Caudex';
+}
+
+body {
+    font-family: 'Noto Serif', serif !important;
+}
