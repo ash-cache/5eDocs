@@ -79,7 +79,7 @@ const createSpellCard = (text) => {
 
 const fetchSpell = async (name) => {
   try {
-    const response = await fetch(`/5eDocs/docs/spells/${name}.md`);
+    const response = await fetch(`/5eDocs/docs/Spells/${name}.md`);
     if (!response.ok) {
       throw new Error("Network response was not ok");
     }
