@@ -1,6 +1,6 @@
 title: WebSRD
 description: Everything you need to play 5E
-theme: just-the-docs
+remote_theme: just-the-docs
 color_scheme: custom-light
 
 url: https://just-the-docs.github.io
