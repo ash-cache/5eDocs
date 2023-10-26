@@ -15,63 +15,62 @@ const createSpellCard = (text) => {
   const components = text.match(/\*\*Components:\*\*\s*([^\n]+)\n/)[1];
   const duration = text.match(/\*\*Duration:\*\*\s*([^\n]+)\n/)[1];
   const description = text.match(/\*\*Duration:\*\* ([^\n]+)\n\n([^]+)/)[2];
-  
+
   // Utility function for creating fields
   const createField = (field, value) => {
-	const div = document.createElement('div');
+    const div = document.createElement("div");
 
-	const label = document.createElement('span');
-	label.classList.add('spellLabel');
-	label.textContent = field;
+    const label = document.createElement("span");
+    label.classList.add("spellLabel");
+    label.textContent = field;
 
-	const val = document.createElement('span');
-	val.textContent = `${value}`;
+    const val = document.createElement("span");
+    val.textContent = `${value}`;
 
-	div.append(label, value);
-	return div;
-  }
+    div.append(label, value);
+    return div;
+  };
 
   const formatDescription = (text) => {
-	return text.replace(/\*\*\*([^*]+)\*\*\*\./g, '<h5>$1</h5>');
-  }
+    return text.replace(/\*\*\*([^*]+)\*\*\*\./g, "<h5>$1</h5>");
+  };
 
   // Make the card
   const card = document.createElement("div");
   card.classList.add("spellCard");
 
   const nameSchool = document.createElement("div");
-  nameSchool.classList.add('cardHeading');
+  nameSchool.classList.add("cardHeading");
 
   const spellTitle = document.createElement("h2");
   spellTitle.textContent = spellName;
 
-  const spellLevelSchool = document.createElement('span');
-  spellLevelSchool.classList.add('levelSchool');
+  const spellLevelSchool = document.createElement("span");
+  spellLevelSchool.classList.add("levelSchool");
   spellLevelSchool.textContent = spellType;
 
   nameSchool.append(spellTitle, spellLevelSchool);
-  
-  const timeRange = document.createElement('div');
-  timeRange.classList.add('timeRange');
+
+  const timeRange = document.createElement("div");
+  timeRange.classList.add("timeRange");
 
   const timeField = createField("Casting Time: ", castingTime);
   const rangeField = createField("Range: ", range);
 
   timeRange.append(timeField, rangeField);
 
-  const compDuration = document.createElement('div');
-  compDuration.classList.add('compDuration');
+  const compDuration = document.createElement("div");
+  compDuration.classList.add("compDuration");
 
   const compField = createField("Components: ", components);
   const durationField = createField("Duration: ", duration);
 
   compDuration.append(compField, durationField);
 
-  const linebreak = document.createElement('br');
+  const linebreak = document.createElement("br");
 
-  const descriptionDiv = document.createElement('div');
+  const descriptionDiv = document.createElement("div");
   descriptionDiv.innerHTML = formatDescription(description);
-  
 
   card.append(nameSchool, timeRange, compDuration, linebreak, descriptionDiv);
 
@@ -80,7 +79,7 @@ const createSpellCard = (text) => {
 
 const fetchSpell = async (name) => {
   try {
-    const response = await fetch(`/docs/spells/${name}.md`);
+    const response = await fetch(`/5eDocs/docs/spells/${name}.md`);
     if (!response.ok) {
       throw new Error("Network response was not ok");
     }
